@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/actio_sign_out"
+        android:title="cerrar sesion"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/actio_sign_out1"
+        android:title="Listados de Alumnos"
+        app:showAsAction="never"></item>
+
+
+    <item android:id="@+id/actio_sign_out3"
+        android:title="Listados de Profesores"
+        app:showAsAction="never"></item>
+
+</menu>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "389734861932",
+    "project_id": "retrofit-login",
+    "storage_bucket": "retrofit-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389734861932:android:41208082973533d9c51c49",
+        "android_client_info": {
+          "package_name": "com.dsm.retrofitproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389734861932-0t50at0t9bufrdaqvlbr8hn6jr4v5240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uEFEsq3mh96Yvz0Bqn-yVNidYBThJNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389734861932-0t50at0t9bufrdaqvlbr8hn6jr4v5240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389734861932:android:214fe238bae2a935c51c49",
+        "android_client_info": {
+          "package_name": "com.example.dsm_retrofit_proyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389734861932-0t50at0t9bufrdaqvlbr8hn6jr4v5240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uEFEsq3mh96Yvz0Bqn-yVNidYBThJNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389734861932-0t50at0t9bufrdaqvlbr8hn6jr4v5240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

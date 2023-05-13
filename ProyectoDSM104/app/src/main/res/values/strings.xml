@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API REST</string>
+    <string name="edad">edad</string>
+    <string name="apellido">apellido</string>
+    <string name="nombre">nombre</string>
+    <string name="especialidad">especialidad</string>
+</resources>
